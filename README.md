@@ -11,7 +11,7 @@ It consist Frontend questions asked in interviews
 8. Diff between 'of' and 'in' - for loop
 9. Implicit Binding vs Explicit Binding
 10. Various function borrowing methods
-================================================================================
+===================================================
 1. Create div with fixed height. Place an element inside the div and positio it horizontally and vertically centered.
 2. Positions in CSS
 3. Differentiate behavior of fixed and sticky position
@@ -23,4 +23,4 @@ It consist Frontend questions asked in interviews
 9. Implicit Binding
 10. Advantages and limitaions of arrow functions ( understand how binding works with arrow function )
 11. Hosting 
-===================================================================================
+=====================================================
