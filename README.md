@@ -1,6 +1,7 @@
 # Frontend-Interview-Questions
 It consist Frontend questions asked in interviews
-=================================================
+
+
 1. Difference between div and span tags
 2. Can you place div within span ? Where could we use this structure
 3. Create an anchor tag and style it so that it has difference color when hovered, clicked and is active
@@ -11,7 +12,9 @@ It consist Frontend questions asked in interviews
 8. Diff between 'of' and 'in' - for loop
 9. Implicit Binding vs Explicit Binding
 10. Various function borrowing methods
+
 ===================================================
+
 1. Create div with fixed height. Place an element inside the div and positio it horizontally and vertically centered.
 2. Positions in CSS
 3. Differentiate behavior of fixed and sticky position
