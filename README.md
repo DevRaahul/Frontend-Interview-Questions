@@ -26,4 +26,5 @@ It consist Frontend questions asked in interviews
 9. Implicit Binding
 10. Advantages and limitaions of arrow functions ( understand how binding works with arrow function )
 11. Hosting 
+
 =====================================================
