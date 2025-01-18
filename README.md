@@ -12,9 +12,8 @@ HTML & CSS
 8. What do you mean by accessibility issue
 9. Why is the 'data' attribute used
 10. Different ways to hide elements using CSS
-    
-============================================================================================
 
+    
 Javascript
 ============================================================================================
 1. Difference between function declaration and function definition
@@ -36,7 +35,6 @@ Javascript
 17. Caching Technique
 18. Promise (Promise.all, Promise.race) difference between them and what happens if any of them fails
 
-============================================================================================
 
 React JS
 ============================================================================================
@@ -46,16 +44,13 @@ React JS
 4. Equivalent of componentShouldUpdate() life cycle method
 5. What is the use of the useId, useTransition, and useTransform hook in react.
 6. How useState works ? How state value persist over the component re-renders ?
-7. 
 
-============================================================================================
 
 Redux and Middleware
 ============================================================================================
 1. What is middleware
 2. In RTK, what is the use of extraReducer
 
-============================================================================================
 
 Webpack
 ============================================================================================
@@ -64,4 +59,3 @@ Webpack
 3. What is Webpack and use of it
 4. what is Babel and it's use.
 
-============================================================================================
